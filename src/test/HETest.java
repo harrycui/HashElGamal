@@ -16,11 +16,7 @@ public class HETest {
 		
 		KeyPair keys = HashElGamal.genKeyPair(param);
 		
-		String pw1 = "1E25D673BAA90A64370D265AAB506BFE1F51D5DF2ABA4B409EED8A8158CF8F15";
-		
-		BigInteger biPw1 = new BigInteger(pw1, 16);
-		
-		String msg = biPw1.toString();
+		String msg = "1357924680";
 		
 		System.out.println("msg = " + msg);
 		
