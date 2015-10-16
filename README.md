@@ -1,8 +1,8 @@
-# HashElGamal
+# Hash-ElGamal in Java
 
 ---
 
-This is an implementation of Hash-ElGamal cryptosystem, which is a partially homomorphic encryption.
+This is a Java implementation of the Hash-ElGamal cryptosystem, which is a partially homomorphic encryption.
 
 It supports adding a mask on the ciphertext.
 
